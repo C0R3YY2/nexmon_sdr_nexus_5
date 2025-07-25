@@ -1,0 +1,41 @@
+local/armeabi/objs/crypto/src/crypto/newhope/poly.o: \
+ ../boringssl/src/crypto/newhope/poly.c \
+ ../boringssl/src/include/openssl/aes.h \
+ ../boringssl/src/include/openssl/base.h \
+ ../boringssl/src/include/openssl/opensslconf.h \
+ ../boringssl/src/include/openssl/rand.h \
+ ../boringssl/src/crypto/newhope/internal.h \
+ ../boringssl/src/include/openssl/newhope.h \
+ ../boringssl/src/include/openssl/sha.h \
+ ../boringssl/src/crypto/newhope/../internal.h \
+ ../boringssl/src/include/openssl/ex_data.h \
+ ../boringssl/src/include/openssl/stack.h \
+ ../boringssl/src/include/openssl/type_check.h \
+ ../boringssl/src/include/openssl/stack_macros.h \
+ ../boringssl/src/include/openssl/thread.h
+
+../boringssl/src/include/openssl/aes.h:
+
+../boringssl/src/include/openssl/base.h:
+
+../boringssl/src/include/openssl/opensslconf.h:
+
+../boringssl/src/include/openssl/rand.h:
+
+../boringssl/src/crypto/newhope/internal.h:
+
+../boringssl/src/include/openssl/newhope.h:
+
+../boringssl/src/include/openssl/sha.h:
+
+../boringssl/src/crypto/newhope/../internal.h:
+
+../boringssl/src/include/openssl/ex_data.h:
+
+../boringssl/src/include/openssl/stack.h:
+
+../boringssl/src/include/openssl/type_check.h:
+
+../boringssl/src/include/openssl/stack_macros.h:
+
+../boringssl/src/include/openssl/thread.h:

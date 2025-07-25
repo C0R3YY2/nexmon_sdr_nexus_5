@@ -1,0 +1,53 @@
+local/armeabi/objs/crypto/src/crypto/cipher/e_tls.o: \
+ ../boringssl/src/crypto/cipher/e_tls.c \
+ ../boringssl/src/include/openssl/aead.h \
+ ../boringssl/src/include/openssl/base.h \
+ ../boringssl/src/include/openssl/opensslconf.h \
+ ../boringssl/src/include/openssl/cipher.h \
+ ../boringssl/src/include/openssl/err.h \
+ ../boringssl/src/include/openssl/hmac.h \
+ ../boringssl/src/include/openssl/digest.h \
+ ../boringssl/src/include/openssl/md5.h \
+ ../boringssl/src/include/openssl/mem.h \
+ ../boringssl/src/include/openssl/sha.h \
+ ../boringssl/src/include/openssl/type_check.h \
+ ../boringssl/src/include/../crypto/internal.h \
+ ../boringssl/src/include/openssl/ex_data.h \
+ ../boringssl/src/include/openssl/stack.h \
+ ../boringssl/src/include/openssl/stack_macros.h \
+ ../boringssl/src/include/openssl/thread.h \
+ ../boringssl/src/crypto/cipher/internal.h
+
+../boringssl/src/include/openssl/aead.h:
+
+../boringssl/src/include/openssl/base.h:
+
+../boringssl/src/include/openssl/opensslconf.h:
+
+../boringssl/src/include/openssl/cipher.h:
+
+../boringssl/src/include/openssl/err.h:
+
+../boringssl/src/include/openssl/hmac.h:
+
+../boringssl/src/include/openssl/digest.h:
+
+../boringssl/src/include/openssl/md5.h:
+
+../boringssl/src/include/openssl/mem.h:
+
+../boringssl/src/include/openssl/sha.h:
+
+../boringssl/src/include/openssl/type_check.h:
+
+../boringssl/src/include/../crypto/internal.h:
+
+../boringssl/src/include/openssl/ex_data.h:
+
+../boringssl/src/include/openssl/stack.h:
+
+../boringssl/src/include/openssl/stack_macros.h:
+
+../boringssl/src/include/openssl/thread.h:
+
+../boringssl/src/crypto/cipher/internal.h:
